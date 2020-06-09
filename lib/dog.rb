@@ -1,6 +1,6 @@
 class Dog
   
-  def instantiate
+  def initialize
  end
   
 end
