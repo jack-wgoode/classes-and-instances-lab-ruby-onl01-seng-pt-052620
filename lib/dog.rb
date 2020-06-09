@@ -1,11 +1,12 @@
 class Dog
   
   def initialize
- end
+    
+  end
   
- end
 end
 
- "fido" =  Dog.new
+
+ "fido" = Dog.new
  "snoopy" = Dog.new
  "lassie" = Dog.new
